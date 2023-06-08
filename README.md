@@ -1,7 +1,7 @@
 ## Utilizar en la web
 
-- Netlify -> [Blackjackv1]( https://app-todo-v1.netlify.app/)
-- Github -> [Blackjackv1]()
+- Netlify -> [TodoApp1]( https://app-todo-v1.netlify.app/)
+- Github -> [TodoAppv1]()
 
 ### HTML Template
 
