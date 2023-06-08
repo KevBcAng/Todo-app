@@ -10,7 +10,6 @@ const state = {
     todos:[ 
         new Todo('Tarea 1'),
         new Todo('Tarea 2'),
-   
     ],
     filter: Filters.All,
 }
